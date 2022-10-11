@@ -1,0 +1,22 @@
+{
+  "name": "ifcjs",
+  "version": "0.0.1",
+  "description": "This is a web based IFC viewer based on the IFC.js library.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KinzyBogdan/IFC.js-Tutorial.git"
+  },
+  "keywords": [
+    "IFC.js"
+  ],
+  "author": "Kinzerskiy Bogdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KinzyBogdan/IFC.js-Tutorial/issues"
+  },
+  "homepage": "https://github.com/KinzyBogdan/IFC.js-Tutorial#readme"
+}
