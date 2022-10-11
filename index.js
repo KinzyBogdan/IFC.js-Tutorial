@@ -8,7 +8,7 @@ const templateProjectCard = projectCards[0];
 const cardTitle = templateProjectCard.querySelector('h3');
 console.log(cardTitle.textContent);
 
-const baseUrl = "http://127.0.0.1:5500/viewer.html"
+const baseUrl = "https://kinzybogdan.github.io/viewer.html"
 
 for(let project of projects) {
     const newCard = templateProjectCard.cloneNode(true);
